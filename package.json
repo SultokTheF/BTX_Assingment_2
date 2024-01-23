@@ -1,0 +1,20 @@
+{
+  "name": "btx_assingment_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "nodemon": "^3.0.3",
+    "url-encode-decode": "^1.0.0",
+    "web3": "^4.4.0"
+  }
+}
